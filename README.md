@@ -66,12 +66,12 @@ domain.
 
 ## 2. Core Concepts Explained
 
-### 🔹 LLM as a Reasoning Engine
+### LLM as a Reasoning Engine
 
 Explains how LLMs process instructions, respond contextually, and reason
 step-by-step.
 
-### 🔹 Agent Specialization
+### Agent Specialization
 
 Instead of one monolithic prompt, tasks are distributed among focused
 agents:
@@ -83,7 +83,7 @@ agents:
 -   Transparency/Explanation Agent\
 -   Blockchain Logging Agent
 
-### 🔹 Agent Collaboration
+### Agent Collaboration
 
     User → Intake Agent → Clinical Extraction Agent → Diagnostic Agent 
          → Treatment Agent → Safety Agent → Results → Blockchain Logger → User
@@ -101,7 +101,7 @@ agents:
 -   Regulatory compliance\
 -   Secure audit logging
 
-### ✔️ Requirements Addressed
+### Requirements Addressed
 
 -   Structured extraction\
 -   Evidence-based reasoning\
@@ -147,30 +147,30 @@ agents:
 
 ## 5. Implemented Agents
 
-### ✔ Intake Agent
+### Intake Agent
 
 -   Converts raw input into structured form\
 -   Identifies missing information\
 -   Requests clarification
 
-### ✔ Extraction Agent
+### Extraction Agent
 
 -   Extracts symptoms, vitals, demographics\
 -   Converts free-text into clinical JSON
 
-### ✔ Diagnostic Agent
+### Diagnostic Agent
 
 -   Multi-step reasoning\
 -   Generates differential diagnosis\
 -   Provides confidence scores
 
-### ✔ Treatment Agent
+### Treatment Agent
 
 -   Suggests evidence-based actions\
 -   Provides treatment logic (non-prescriptive)\
 -   Includes safety disclaimers
 
-### ✔ Validation Agent
+### Validation Agent
 
 -   Checks contradictions\
 -   Validates reasoning\
@@ -199,14 +199,14 @@ agents:
 
 ## 7. Blockchain Section (Separated & Highlighted)
 
-### ✔ Purpose of Blockchain
+### Purpose of Blockchain
 
 -   Immutable logs\
 -   Compliance & auditability\
 -   Cross-agent traceability\
 -   Prevents tampering
 
-### ✔ What Gets Recorded?
+### What Gets Recorded?
 
 -   Agent outputs\
 -   Reasoning summaries\
@@ -214,7 +214,7 @@ agents:
 -   Hash-based integrity\
 -   Decision lineage
 
-### ✔ Implemented Features
+### Implemented Features
 
 -   Simple blockchain class\
 -   Block hashing\
