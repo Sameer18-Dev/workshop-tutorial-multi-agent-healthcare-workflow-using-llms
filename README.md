@@ -1,6 +1,6 @@
 # Multi-Agent Healthcare Workflow Using LLMs
 
-## 📘 Overview
+## Overview
 
 This repository contains a complete **tutorial and reference
 implementation** of a **Multi-Agent Healthcare Workflow System** built
@@ -24,7 +24,7 @@ This tutorial is ideal for:
 
 ------------------------------------------------------------------------
 
-## 📂 Contents
+## Contents
 
 1.  Introduction to Multi-Agent Systems\
 2.  Foundations: LLM Prompting, Orchestration, and Reasoning\
@@ -38,7 +38,7 @@ This tutorial is ideal for:
 
 ------------------------------------------------------------------------
 
-## 🧠 1. Introduction to Multi-Agent Healthcare Workflows
+## 1. Introduction to Multi-Agent Healthcare Workflows
 
 Modern healthcare requires systems that can:
 
@@ -64,7 +64,7 @@ domain.
 
 ------------------------------------------------------------------------
 
-## 🧩 2. Core Concepts Explained
+## 2. Core Concepts Explained
 
 ### 🔹 LLM as a Reasoning Engine
 
@@ -90,9 +90,9 @@ agents:
 
 ------------------------------------------------------------------------
 
-## 🏥 3. Healthcare Use Case & Domain Requirements
+## 3. Healthcare Use Case & Domain Requirements
 
-### ⚠️ Domain Challenges
+###  Domain Challenges
 
 -   Medical data ambiguity\
 -   Clinical reasoning complexity\
@@ -111,7 +111,7 @@ agents:
 
 ------------------------------------------------------------------------
 
-## ⚙️ 4. System Architecture
+## 4. System Architecture
 
                     +-------------------------+
                     |   User Inputs / Data    |
@@ -145,7 +145,7 @@ agents:
 
 ------------------------------------------------------------------------
 
-## 🤖 5. Implemented Agents
+## 5. Implemented Agents
 
 ### ✔ Intake Agent
 
@@ -178,7 +178,7 @@ agents:
 
 ------------------------------------------------------------------------
 
-## 🛡 6. Safety, Validation & Error Handling
+## 6. Safety, Validation & Error Handling
 
 ### Safety Layers
 
@@ -197,7 +197,7 @@ agents:
 
 ------------------------------------------------------------------------
 
-## 🔗 7. Blockchain Section (Separated & Highlighted)
+## 7. Blockchain Section (Separated & Highlighted)
 
 ### ✔ Purpose of Blockchain
 
@@ -223,7 +223,7 @@ agents:
 
 ------------------------------------------------------------------------
 
-## 🧪 8. Exercises
+## 8. Exercises
 
 Includes placeholders for:
 
@@ -237,7 +237,7 @@ Includes placeholders for:
 
 ------------------------------------------------------------------------
 
-## ▶️ 9. How to Use the Notebook
+## 9. How to Use the Notebook
 
 ### Requirements
 
@@ -260,7 +260,7 @@ Includes placeholders for:
 
 ------------------------------------------------------------------------
 
-## 🚀 10. Future Enhancements
+## 10. Future Enhancements
 
 -   RAG integration for guideline lookup\
 -   Multi-turn memory\
@@ -272,7 +272,7 @@ Includes placeholders for:
 
 ------------------------------------------------------------------------
 
-## 🗂 11. Repository Structure
+## 11. Repository Structure
 
     /notebook
       └── Workshop_Tutorial_Multi_Agent_Healthcare_Workflow_Using_LLMs.ipynb
@@ -294,7 +294,7 @@ Includes placeholders for:
 
 ------------------------------------------------------------------------
 
-## 📄 License
+## License
 
 Use an MIT, Apache-2.0, or custom license as needed.
 
