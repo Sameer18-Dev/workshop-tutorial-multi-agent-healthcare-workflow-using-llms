@@ -10,9 +10,9 @@ foundational concepts to fully functional multi-agent orchestration,
 highlighting key considerations, issues, and solutions in building
 intelligent clinical workflows.
 
-The project demonstrates how multiple specialized agents---such as
+The project demonstrates how multiple specialized agents such as
 diagnostic agents, data extraction agents, explanation agents,
-validation agents, and triage decision agents---can collaborate to
+validation agents, and triage decision agents can collaborate to
 automate components of a modern healthcare pipeline.
 
 This tutorial is ideal for:
